@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mackenzienolan
 - 👀 I’m interested in e-commerce and developing fast web experiences
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - @macknolan
 - mackenzie@macknolan.com
