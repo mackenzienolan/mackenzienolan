@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mackenzienolan
-- 👀 I’m interested in e-commerce and developing fast web experiences
+- 👀 I’m interested in SaaS, E-Commerce and developing fast web app experiences
 - 📫 How to reach me:
 - @macknolan
-- mackenzie@macknolan.com
+- mackenzie@macknolan.dev
 
 <!---
 mackenzienolan/mackenzienolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
